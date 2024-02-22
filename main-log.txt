@@ -14,3 +14,269 @@
 2024-02-22 14:50:08,923 WARNING: Python-dotenv could not parse statement starting at line 24
 2024-02-22 14:50:08,923 WARNING: Python-dotenv could not parse statement starting at line 25
 2024-02-22 14:50:08,923 WARNING: Python-dotenv could not parse statement starting at line 26
+2024-02-22 14:57:29,219 ERROR: [nltk_data] Downloading package punkt to /media/stuart/a874b769-6b78-
+[nltk_data]     4d91-9f1f-c08ec45ab566/Github/RepoReader/nltk_data...
+2024-02-22 14:57:30,021 ERROR: [nltk_data]   Unzipping tokenizers/punkt.zip.
+2024-02-22 14:57:30,021 ERROR: [nltk_data] Error with downloaded zip file
+2024-02-22 15:07:51,907 ERROR: [nltk_data] Downloading package punkt to /media/stuart/a874b769-6b78-
+[nltk_data]     4d91-9f1f-c08ec45ab566/Github/RepoReader/nltk_data...
+2024-02-22 15:07:52,546 ERROR: [nltk_data]   Unzipping tokenizers/punkt.zip.
+2024-02-22 15:07:52,547 ERROR: [nltk_data] Error with downloaded zip file
+2024-02-22 15:09:19,860 ERROR: [nltk_data] Downloading package punkt to /media/stuart/a874b769-6b78-
+[nltk_data]     4d91-9f1f-c08ec45ab566/Github/RepoReader/nltk_data...
+2024-02-22 15:09:20,756 ERROR: [nltk_data]   Unzipping tokenizers/punkt.zip.
+2024-02-22 15:09:20,757 ERROR: [nltk_data] Error with downloaded zip file
+2024-02-22 15:10:21,483 ERROR: [nltk_data] Downloading package punkt to /home/stuart/nltk_data...
+2024-02-22 15:10:22,343 ERROR: [nltk_data]   Unzipping tokenizers/punkt.zip.
+2024-02-22 15:10:22,343 ERROR: [nltk_data] Error with downloaded zip file
+2024-02-22 15:10:22,344 ERROR: [nltk_data] Downloading package averaged_perceptron_tagger to
+[nltk_data]     /home/stuart/nltk_data...
+2024-02-22 15:10:22,741 ERROR: [nltk_data]   Unzipping taggers/averaged_perceptron_tagger.zip.
+2024-02-22 15:10:24,390 INFO: Reading document from string ...
+2024-02-22 15:10:24,398 INFO: Reading document ...
+2024-02-22 15:16:24,088 ERROR: [nltk_data] Downloading package punkt to /home/stuart/nltk_data...
+2024-02-22 15:16:25,493 ERROR: [nltk_data]   Unzipping tokenizers/punkt.zip.
+2024-02-22 15:16:25,494 ERROR: [nltk_data] Error with downloaded zip file
+2024-02-22 15:16:49,142 ERROR: [nltk_data] Downloading package punkt to /home/stuart/nltk_data...
+2024-02-22 15:16:50,110 ERROR: [nltk_data]   Unzipping tokenizers/punkt.zip.
+2024-02-22 15:16:50,111 ERROR: [nltk_data] Error with downloaded zip file
+2024-02-22 15:16:50,643 INFO: Reading document from string ...
+2024-02-22 15:16:50,643 INFO: Reading document ...
+2024-02-22 15:22:36,801 ERROR: [nltk_data] Downloading package punkt to /media/stuart/a874b769-6b78-
+[nltk_data]     4d91-9f1f-c08ec45ab566/Github/RepoReader/nltk_data...
+2024-02-22 15:22:37,790 ERROR: [nltk_data]   Unzipping tokenizers/punkt.zip.
+2024-02-22 15:22:37,790 ERROR: [nltk_data] Error with downloaded zip file
+2024-02-22 15:49:09,727 DEBUG: Starting new HTTPS connection (1): github.com:443
+2024-02-22 15:49:10,098 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
+2024-02-22 15:49:10,100 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2024-02-22 15:49:10,362 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
+2024-02-22 15:50:17,657 ERROR: [nltk_data] Downloading package punkt to /home/stuart/nltk_data...
+2024-02-22 15:50:18,788 ERROR: [nltk_data]   Unzipping tokenizers/punkt.zip.
+2024-02-22 15:50:18,788 ERROR: [nltk_data] Error with downloaded zip file
+2024-02-22 15:50:19,184 INFO: Reading document from string ...
+2024-02-22 15:50:19,184 INFO: Reading document ...
+2024-02-22 15:55:59,264 DEBUG: Starting new HTTPS connection (1): github.com:443
+2024-02-22 15:55:59,751 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
+2024-02-22 15:55:59,752 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2024-02-22 15:56:00,191 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
+2024-02-22 15:57:43,219 DEBUG: Starting new HTTPS connection (1): github.com:443
+2024-02-22 15:57:43,414 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
+2024-02-22 15:57:43,416 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2024-02-22 15:57:43,544 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
+2024-02-22 15:58:00,398 INFO: Reading document from string ...
+2024-02-22 15:58:00,398 INFO: Reading document ...
+2024-02-22 15:58:00,404 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Crawlee
+2024-02-22 15:58:00,404 DEBUG: Skipping sentence because does not exceed 3 word tokens
+Web Crawler
+2024-02-22 15:58:00,404 DEBUG: Not narrative. Text exceeds cap ratio 0.5:
+
+Web Crawler
+2024-02-22 15:58:00,405 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Web Crawler
+2024-02-22 15:58:00,411 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 15:58:00,411 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 15:58:00,411 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 15:58:00,411 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 15:58:00,506 DEBUG: Not narrative. Text does not contain a verb:
+
+console.log("Hello, World!");
+2024-02-22 15:58:00,506 DEBUG: Skipping sentence because does not exceed 5 word tokens
+consolelogHello World
+2024-02-22 15:58:00,506 DEBUG: Skipping sentence because does not exceed 5 word tokens
+
+2024-02-22 15:58:00,528 ERROR: Traceback (most recent call last):
+2024-02-22 15:58:00,528 ERROR:   File "/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/app.py", line 5, in <module>
+2024-02-22 15:58:00,528 ERROR: main()
+2024-02-22 15:58:00,528 ERROR:   File "/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/main.py", line 49, in main
+2024-02-22 15:58:00,528 ERROR: index, documents, file_type_counts, filenames = load_and_index_files(local_path)
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,529 ERROR: ^
+2024-02-22 15:58:00,530 ERROR: ^
+2024-02-22 15:58:00,530 ERROR: ^
+2024-02-22 15:58:00,530 ERROR: ^
+2024-02-22 15:58:00,530 ERROR: ^
+2024-02-22 15:58:00,530 ERROR: ^
+2024-02-22 15:58:00,530 ERROR: ^
+2024-02-22 15:58:00,530 ERROR: ^
+2024-02-22 15:58:00,530 ERROR: ^
+2024-02-22 15:58:00,530 ERROR:   File "/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/file_processing.py", line 63, in load_and_index_files
+2024-02-22 15:58:00,530 ERROR: tokenized_documents = [clean_and_tokenize(doc.page_content) for doc in split_documents]
+2024-02-22 15:58:00,530 ERROR: ^
+2024-02-22 15:58:00,530 ERROR: ^
+2024-02-22 15:58:00,530 ERROR: ^
+2024-02-22 15:58:00,530 ERROR: ^
+2024-02-22 15:58:00,530 ERROR: ^
+2024-02-22 15:58:00,530 ERROR: ^
+2024-02-22 15:58:00,531 ERROR: ^
+2024-02-22 15:58:00,531 ERROR: ^
+2024-02-22 15:58:00,531 ERROR: ^
+2024-02-22 15:58:00,531 ERROR: ^
+2024-02-22 15:58:00,531 ERROR: ^
+2024-02-22 15:58:00,531 ERROR: ^
+2024-02-22 15:58:00,531 ERROR: ^
+2024-02-22 15:58:00,531 ERROR: ^
+2024-02-22 15:58:00,531 ERROR: ^
+2024-02-22 15:58:00,531 ERROR: ^
+2024-02-22 15:58:00,531 ERROR: ^
+2024-02-22 15:58:00,531 ERROR: ^
+2024-02-22 15:58:00,531 ERROR: ^
+2024-02-22 15:58:00,531 ERROR: ^
+2024-02-22 15:58:00,531 ERROR: ^
+2024-02-22 15:58:00,531 ERROR: ^
+2024-02-22 15:58:00,531 ERROR: ^
+2024-02-22 15:58:00,531 ERROR: ^
+2024-02-22 15:58:00,532 ERROR: ^
+2024-02-22 15:58:00,532 ERROR: ^
+2024-02-22 15:58:00,532 ERROR: ^
+2024-02-22 15:58:00,532 ERROR: ^
+2024-02-22 15:58:00,532 ERROR: ^
+2024-02-22 15:58:00,532 ERROR: ^
+2024-02-22 15:58:00,532 ERROR: ^
+2024-02-22 15:58:00,532 ERROR: ^
+2024-02-22 15:58:00,532 ERROR: ^
+2024-02-22 15:58:00,532 ERROR: ^
+2024-02-22 15:58:00,532 ERROR: ^
+2024-02-22 15:58:00,532 ERROR: ^
+2024-02-22 15:58:00,532 ERROR: ^
+2024-02-22 15:58:00,532 ERROR: ^
+2024-02-22 15:58:00,532 ERROR: ^
+2024-02-22 15:58:00,532 ERROR: ^
+2024-02-22 15:58:00,532 ERROR: ^
+2024-02-22 15:58:00,532 ERROR: ^
+2024-02-22 15:58:00,533 ERROR: ^
+2024-02-22 15:58:00,533 ERROR: ^
+2024-02-22 15:58:00,533 ERROR: ^
+2024-02-22 15:58:00,533 ERROR: ^
+2024-02-22 15:58:00,533 ERROR: ^
+2024-02-22 15:58:00,533 ERROR: ^
+2024-02-22 15:58:00,533 ERROR: ^
+2024-02-22 15:58:00,533 ERROR: ^
+2024-02-22 15:58:00,533 ERROR: ^
+2024-02-22 15:58:00,533 ERROR: ^
+2024-02-22 15:58:00,533 ERROR: ^
+2024-02-22 15:58:00,533 ERROR: ^
+2024-02-22 15:58:00,533 ERROR: ^
+2024-02-22 15:58:00,533 ERROR: ^
+2024-02-22 15:58:00,534 ERROR: ^
+2024-02-22 15:58:00,534 ERROR: ^
+2024-02-22 15:58:00,534 ERROR: ^
+2024-02-22 15:58:00,534 ERROR: ^
+2024-02-22 15:58:00,534 ERROR: ^
+2024-02-22 15:58:00,534 ERROR: ^
+2024-02-22 15:58:00,534 ERROR: ^
+2024-02-22 15:58:00,534 ERROR: ^
+2024-02-22 15:58:00,534 ERROR: ^
+2024-02-22 15:58:00,534 ERROR:   File "/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/file_processing.py", line 63, in <listcomp>
+2024-02-22 15:58:00,534 ERROR: tokenized_documents = [clean_and_tokenize(doc.page_content) for doc in split_documents]
+2024-02-22 15:58:00,534 ERROR: ^
+2024-02-22 15:58:00,534 ERROR: ^
+2024-02-22 15:58:00,534 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,535 ERROR: ^
+2024-02-22 15:58:00,536 ERROR: ^
+2024-02-22 15:58:00,536 ERROR: ^
+2024-02-22 15:58:00,536 ERROR: ^
+2024-02-22 15:58:00,536 ERROR: ^
+2024-02-22 15:58:00,536 ERROR: ^
+2024-02-22 15:58:00,536 ERROR: ^
+2024-02-22 15:58:00,536 ERROR: ^
+2024-02-22 15:58:00,536 ERROR: ^
+2024-02-22 15:58:00,536 ERROR: ^
+2024-02-22 15:58:00,536 ERROR: ^
+2024-02-22 15:58:00,536 ERROR: ^
+2024-02-22 15:58:00,536 ERROR: ^
+2024-02-22 15:58:00,536 ERROR: ^
+2024-02-22 15:58:00,536 ERROR: ^
+2024-02-22 15:58:00,536 ERROR:   File "/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/utils.py", line 37, in clean_and_tokenize
+2024-02-22 15:58:00,536 ERROR: text = re.sub(r'\s+', ' ', text)
+2024-02-22 15:58:00,537 ERROR: ^
+2024-02-22 15:58:00,537 ERROR: ^
+2024-02-22 15:58:00,537 ERROR: NameError
+2024-02-22 15:58:00,537 ERROR: :
+2024-02-22 15:58:00,537 ERROR: name 're' is not defined
+2024-02-22 16:00:23,917 DEBUG: Starting new HTTPS connection (1): github.com:443
+2024-02-22 16:00:24,305 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
+2024-02-22 16:00:24,306 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2024-02-22 16:00:24,591 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
+2024-02-22 16:00:38,597 INFO: Reading document from string ...
+2024-02-22 16:00:38,597 INFO: Reading document ...
+2024-02-22 16:00:38,603 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Crawlee
+2024-02-22 16:00:38,603 DEBUG: Skipping sentence because does not exceed 3 word tokens
+Web Crawler
+2024-02-22 16:00:38,603 DEBUG: Not narrative. Text exceeds cap ratio 0.5:
+
+Web Crawler
+2024-02-22 16:00:38,603 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Web Crawler
+2024-02-22 16:00:38,609 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 16:00:38,609 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 16:00:38,609 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 16:00:38,609 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 16:00:38,699 DEBUG: Not narrative. Text does not contain a verb:
+
+console.log("Hello, World!");
+2024-02-22 16:00:38,699 DEBUG: Skipping sentence because does not exceed 5 word tokens
+consolelogHello World
+2024-02-22 16:00:38,699 DEBUG: Skipping sentence because does not exceed 5 word tokens
+
+2024-02-22 16:00:38,720 WARNING: WARNING! api_key is not default parameter.
+                    api_key was transfered to model_kwargs.
+                    Please confirm that api_key is what you intended.
+2024-02-22 16:00:56,232 ERROR: /media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/venv/lib/python3.11/site-packages/sklearn/feature_extraction/text.py:528: UserWarning: The parameter 'token_pattern' will not be used since 'tokenizer' is not None'
+  warnings.warn(
+2024-02-22 16:00:56,343 DEBUG: message='Request to OpenAI API' method=post path=https://api.openai.com/v1/completions
+2024-02-22 16:00:56,343 DEBUG: api_version=None data='{"prompt": ["\\n            Repo: Crawlee (https://github.com/StuartJAtkinson/Crawlee) | Conv:  | Docs: 1. README.md: Crawlee\\n\\nWeb Crawler\\n2. main.js: console.log(\\"Hello, World!\\"); | Q: Summarise the purpose of this project | FileCount: {\'md\': 1, \'js\': 1} | FileNames: [\'README.md\', \'main.js\']\\n\\n            Instr:\\n            1. Answer based on context/docs.\\n            2. Focus on repo/code.\\n            3. Consider:\\n                a. Purpose/features - describe.\\n                b. Functions/code - provide details/samples.\\n                c. Setup/usage - give instructions.\\n            4. Unsure? Say \\"I am not sure\\".\\n\\n            Answer:\\n            "], "model": "text-davinci-003", "temperature": 0.2, "max_tokens": 256, "top_p": 1, "frequency_penalty": 0, "presence_penalty": 0, "n": 1, "best_of": 1, "logit_bias": {}}' message='Post details'
+2024-02-22 16:00:56,343 DEBUG: Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2024-02-22 16:00:56,346 DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2024-02-22 16:00:57,225 DEBUG: https://api.openai.com:443 "POST /v1/completions HTTP/1.1" 404 None
+2024-02-22 16:00:57,226 DEBUG: message='OpenAI API response' path=https://api.openai.com/v1/completions processing_ms=None request_id=req_48436773c3f7b7fbcd35a0a4b8831509 response_code=404
+2024-02-22 16:00:57,227 INFO: error_code=model_not_found error_message='The model `text-davinci-003` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
