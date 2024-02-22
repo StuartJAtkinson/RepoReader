@@ -9,7 +9,7 @@ Explore and ask questions about a GitHub code repository using OpenAI's GPT-3 la
 
 ## Usage
 1. Set the OpenAI API key as an environment variable `OPENAI_API_KEY`.
-2. Run the script: `reporeader.py`
+2. Run the script: `app.py`
 3. Enter the GitHub URL of the repository to explore.
 4. Ask questions about the repository. Type `exit()` to quit.
 
