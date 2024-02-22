@@ -1,282 +1,752 @@
-2024-02-22 14:48:34,883 WARNING: Python-dotenv could not parse statement starting at line 19
-2024-02-22 14:48:34,883 WARNING: Python-dotenv could not parse statement starting at line 20
-2024-02-22 14:48:34,883 WARNING: Python-dotenv could not parse statement starting at line 21
-2024-02-22 14:48:34,883 WARNING: Python-dotenv could not parse statement starting at line 22
-2024-02-22 14:48:34,884 WARNING: Python-dotenv could not parse statement starting at line 23
-2024-02-22 14:48:34,884 WARNING: Python-dotenv could not parse statement starting at line 24
-2024-02-22 14:48:34,884 WARNING: Python-dotenv could not parse statement starting at line 25
-2024-02-22 14:48:34,884 WARNING: Python-dotenv could not parse statement starting at line 26
-2024-02-22 14:50:08,922 WARNING: Python-dotenv could not parse statement starting at line 19
-2024-02-22 14:50:08,922 WARNING: Python-dotenv could not parse statement starting at line 20
-2024-02-22 14:50:08,922 WARNING: Python-dotenv could not parse statement starting at line 21
-2024-02-22 14:50:08,922 WARNING: Python-dotenv could not parse statement starting at line 22
-2024-02-22 14:50:08,923 WARNING: Python-dotenv could not parse statement starting at line 23
-2024-02-22 14:50:08,923 WARNING: Python-dotenv could not parse statement starting at line 24
-2024-02-22 14:50:08,923 WARNING: Python-dotenv could not parse statement starting at line 25
-2024-02-22 14:50:08,923 WARNING: Python-dotenv could not parse statement starting at line 26
-2024-02-22 14:57:29,219 ERROR: [nltk_data] Downloading package punkt to /media/stuart/a874b769-6b78-
-[nltk_data]     4d91-9f1f-c08ec45ab566/Github/RepoReader/nltk_data...
-2024-02-22 14:57:30,021 ERROR: [nltk_data]   Unzipping tokenizers/punkt.zip.
-2024-02-22 14:57:30,021 ERROR: [nltk_data] Error with downloaded zip file
-2024-02-22 15:07:51,907 ERROR: [nltk_data] Downloading package punkt to /media/stuart/a874b769-6b78-
-[nltk_data]     4d91-9f1f-c08ec45ab566/Github/RepoReader/nltk_data...
-2024-02-22 15:07:52,546 ERROR: [nltk_data]   Unzipping tokenizers/punkt.zip.
-2024-02-22 15:07:52,547 ERROR: [nltk_data] Error with downloaded zip file
-2024-02-22 15:09:19,860 ERROR: [nltk_data] Downloading package punkt to /media/stuart/a874b769-6b78-
-[nltk_data]     4d91-9f1f-c08ec45ab566/Github/RepoReader/nltk_data...
-2024-02-22 15:09:20,756 ERROR: [nltk_data]   Unzipping tokenizers/punkt.zip.
-2024-02-22 15:09:20,757 ERROR: [nltk_data] Error with downloaded zip file
-2024-02-22 15:10:21,483 ERROR: [nltk_data] Downloading package punkt to /home/stuart/nltk_data...
-2024-02-22 15:10:22,343 ERROR: [nltk_data]   Unzipping tokenizers/punkt.zip.
-2024-02-22 15:10:22,343 ERROR: [nltk_data] Error with downloaded zip file
-2024-02-22 15:10:22,344 ERROR: [nltk_data] Downloading package averaged_perceptron_tagger to
-[nltk_data]     /home/stuart/nltk_data...
-2024-02-22 15:10:22,741 ERROR: [nltk_data]   Unzipping taggers/averaged_perceptron_tagger.zip.
-2024-02-22 15:10:24,390 INFO: Reading document from string ...
-2024-02-22 15:10:24,398 INFO: Reading document ...
-2024-02-22 15:16:24,088 ERROR: [nltk_data] Downloading package punkt to /home/stuart/nltk_data...
-2024-02-22 15:16:25,493 ERROR: [nltk_data]   Unzipping tokenizers/punkt.zip.
-2024-02-22 15:16:25,494 ERROR: [nltk_data] Error with downloaded zip file
-2024-02-22 15:16:49,142 ERROR: [nltk_data] Downloading package punkt to /home/stuart/nltk_data...
-2024-02-22 15:16:50,110 ERROR: [nltk_data]   Unzipping tokenizers/punkt.zip.
-2024-02-22 15:16:50,111 ERROR: [nltk_data] Error with downloaded zip file
-2024-02-22 15:16:50,643 INFO: Reading document from string ...
-2024-02-22 15:16:50,643 INFO: Reading document ...
-2024-02-22 15:22:36,801 ERROR: [nltk_data] Downloading package punkt to /media/stuart/a874b769-6b78-
-[nltk_data]     4d91-9f1f-c08ec45ab566/Github/RepoReader/nltk_data...
-2024-02-22 15:22:37,790 ERROR: [nltk_data]   Unzipping tokenizers/punkt.zip.
-2024-02-22 15:22:37,790 ERROR: [nltk_data] Error with downloaded zip file
-2024-02-22 15:49:09,727 DEBUG: Starting new HTTPS connection (1): github.com:443
-2024-02-22 15:49:10,098 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
-2024-02-22 15:49:10,100 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
-2024-02-22 15:49:10,362 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
-2024-02-22 15:50:17,657 ERROR: [nltk_data] Downloading package punkt to /home/stuart/nltk_data...
-2024-02-22 15:50:18,788 ERROR: [nltk_data]   Unzipping tokenizers/punkt.zip.
-2024-02-22 15:50:18,788 ERROR: [nltk_data] Error with downloaded zip file
-2024-02-22 15:50:19,184 INFO: Reading document from string ...
-2024-02-22 15:50:19,184 INFO: Reading document ...
-2024-02-22 15:55:59,264 DEBUG: Starting new HTTPS connection (1): github.com:443
-2024-02-22 15:55:59,751 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
-2024-02-22 15:55:59,752 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
-2024-02-22 15:56:00,191 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
-2024-02-22 15:57:43,219 DEBUG: Starting new HTTPS connection (1): github.com:443
-2024-02-22 15:57:43,414 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
-2024-02-22 15:57:43,416 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
-2024-02-22 15:57:43,544 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
-2024-02-22 15:58:00,398 INFO: Reading document from string ...
-2024-02-22 15:58:00,398 INFO: Reading document ...
-2024-02-22 15:58:00,404 DEBUG: Skipping sentence because does not exceed 5 word tokens
+2024-02-22 16:29:27,710 DEBUG: Starting new HTTPS connection (1): github.com:443
+2024-02-22 16:29:28,141 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
+2024-02-22 16:29:28,143 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2024-02-22 16:29:28,288 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
+2024-02-22 16:29:40,273 INFO: Reading document from string ...
+2024-02-22 16:29:40,273 INFO: Reading document ...
+2024-02-22 16:29:40,279 DEBUG: Skipping sentence because does not exceed 5 word tokens
 Crawlee
-2024-02-22 15:58:00,404 DEBUG: Skipping sentence because does not exceed 3 word tokens
+2024-02-22 16:29:40,279 DEBUG: Skipping sentence because does not exceed 3 word tokens
 Web Crawler
-2024-02-22 15:58:00,404 DEBUG: Not narrative. Text exceeds cap ratio 0.5:
+2024-02-22 16:29:40,280 DEBUG: Not narrative. Text exceeds cap ratio 0.5:
 
 Web Crawler
-2024-02-22 15:58:00,405 DEBUG: Skipping sentence because does not exceed 5 word tokens
+2024-02-22 16:29:40,280 DEBUG: Skipping sentence because does not exceed 5 word tokens
 Web Crawler
-2024-02-22 15:58:00,411 DEBUG: Skipping sentence because does not exceed 3 word tokens
+2024-02-22 16:29:40,285 DEBUG: Skipping sentence because does not exceed 3 word tokens
 consolelogHello World
-2024-02-22 15:58:00,411 DEBUG: Skipping sentence because does not exceed 3 word tokens
+2024-02-22 16:29:40,285 DEBUG: Skipping sentence because does not exceed 3 word tokens
 
-2024-02-22 15:58:00,411 DEBUG: Skipping sentence because does not exceed 3 word tokens
+2024-02-22 16:29:40,285 DEBUG: Skipping sentence because does not exceed 3 word tokens
 consolelogHello World
-2024-02-22 15:58:00,411 DEBUG: Skipping sentence because does not exceed 3 word tokens
+2024-02-22 16:29:40,285 DEBUG: Skipping sentence because does not exceed 3 word tokens
 
-2024-02-22 15:58:00,506 DEBUG: Not narrative. Text does not contain a verb:
+2024-02-22 16:29:40,377 DEBUG: Not narrative. Text does not contain a verb:
 
 console.log("Hello, World!");
-2024-02-22 15:58:00,506 DEBUG: Skipping sentence because does not exceed 5 word tokens
+2024-02-22 16:29:40,377 DEBUG: Skipping sentence because does not exceed 5 word tokens
 consolelogHello World
-2024-02-22 15:58:00,506 DEBUG: Skipping sentence because does not exceed 5 word tokens
+2024-02-22 16:29:40,377 DEBUG: Skipping sentence because does not exceed 5 word tokens
 
-2024-02-22 15:58:00,528 ERROR: Traceback (most recent call last):
-2024-02-22 15:58:00,528 ERROR:   File "/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/app.py", line 5, in <module>
-2024-02-22 15:58:00,528 ERROR: main()
-2024-02-22 15:58:00,528 ERROR:   File "/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/main.py", line 49, in main
-2024-02-22 15:58:00,528 ERROR: index, documents, file_type_counts, filenames = load_and_index_files(local_path)
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,529 ERROR: ^
-2024-02-22 15:58:00,530 ERROR: ^
-2024-02-22 15:58:00,530 ERROR: ^
-2024-02-22 15:58:00,530 ERROR: ^
-2024-02-22 15:58:00,530 ERROR: ^
-2024-02-22 15:58:00,530 ERROR: ^
-2024-02-22 15:58:00,530 ERROR: ^
-2024-02-22 15:58:00,530 ERROR: ^
-2024-02-22 15:58:00,530 ERROR: ^
-2024-02-22 15:58:00,530 ERROR:   File "/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/file_processing.py", line 63, in load_and_index_files
-2024-02-22 15:58:00,530 ERROR: tokenized_documents = [clean_and_tokenize(doc.page_content) for doc in split_documents]
-2024-02-22 15:58:00,530 ERROR: ^
-2024-02-22 15:58:00,530 ERROR: ^
-2024-02-22 15:58:00,530 ERROR: ^
-2024-02-22 15:58:00,530 ERROR: ^
-2024-02-22 15:58:00,530 ERROR: ^
-2024-02-22 15:58:00,530 ERROR: ^
-2024-02-22 15:58:00,531 ERROR: ^
-2024-02-22 15:58:00,531 ERROR: ^
-2024-02-22 15:58:00,531 ERROR: ^
-2024-02-22 15:58:00,531 ERROR: ^
-2024-02-22 15:58:00,531 ERROR: ^
-2024-02-22 15:58:00,531 ERROR: ^
-2024-02-22 15:58:00,531 ERROR: ^
-2024-02-22 15:58:00,531 ERROR: ^
-2024-02-22 15:58:00,531 ERROR: ^
-2024-02-22 15:58:00,531 ERROR: ^
-2024-02-22 15:58:00,531 ERROR: ^
-2024-02-22 15:58:00,531 ERROR: ^
-2024-02-22 15:58:00,531 ERROR: ^
-2024-02-22 15:58:00,531 ERROR: ^
-2024-02-22 15:58:00,531 ERROR: ^
-2024-02-22 15:58:00,531 ERROR: ^
-2024-02-22 15:58:00,531 ERROR: ^
-2024-02-22 15:58:00,531 ERROR: ^
-2024-02-22 15:58:00,532 ERROR: ^
-2024-02-22 15:58:00,532 ERROR: ^
-2024-02-22 15:58:00,532 ERROR: ^
-2024-02-22 15:58:00,532 ERROR: ^
-2024-02-22 15:58:00,532 ERROR: ^
-2024-02-22 15:58:00,532 ERROR: ^
-2024-02-22 15:58:00,532 ERROR: ^
-2024-02-22 15:58:00,532 ERROR: ^
-2024-02-22 15:58:00,532 ERROR: ^
-2024-02-22 15:58:00,532 ERROR: ^
-2024-02-22 15:58:00,532 ERROR: ^
-2024-02-22 15:58:00,532 ERROR: ^
-2024-02-22 15:58:00,532 ERROR: ^
-2024-02-22 15:58:00,532 ERROR: ^
-2024-02-22 15:58:00,532 ERROR: ^
-2024-02-22 15:58:00,532 ERROR: ^
-2024-02-22 15:58:00,532 ERROR: ^
-2024-02-22 15:58:00,532 ERROR: ^
-2024-02-22 15:58:00,533 ERROR: ^
-2024-02-22 15:58:00,533 ERROR: ^
-2024-02-22 15:58:00,533 ERROR: ^
-2024-02-22 15:58:00,533 ERROR: ^
-2024-02-22 15:58:00,533 ERROR: ^
-2024-02-22 15:58:00,533 ERROR: ^
-2024-02-22 15:58:00,533 ERROR: ^
-2024-02-22 15:58:00,533 ERROR: ^
-2024-02-22 15:58:00,533 ERROR: ^
-2024-02-22 15:58:00,533 ERROR: ^
-2024-02-22 15:58:00,533 ERROR: ^
-2024-02-22 15:58:00,533 ERROR: ^
-2024-02-22 15:58:00,533 ERROR: ^
-2024-02-22 15:58:00,533 ERROR: ^
-2024-02-22 15:58:00,534 ERROR: ^
-2024-02-22 15:58:00,534 ERROR: ^
-2024-02-22 15:58:00,534 ERROR: ^
-2024-02-22 15:58:00,534 ERROR: ^
-2024-02-22 15:58:00,534 ERROR: ^
-2024-02-22 15:58:00,534 ERROR: ^
-2024-02-22 15:58:00,534 ERROR: ^
-2024-02-22 15:58:00,534 ERROR: ^
-2024-02-22 15:58:00,534 ERROR: ^
-2024-02-22 15:58:00,534 ERROR:   File "/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/file_processing.py", line 63, in <listcomp>
-2024-02-22 15:58:00,534 ERROR: tokenized_documents = [clean_and_tokenize(doc.page_content) for doc in split_documents]
-2024-02-22 15:58:00,534 ERROR: ^
-2024-02-22 15:58:00,534 ERROR: ^
-2024-02-22 15:58:00,534 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,535 ERROR: ^
-2024-02-22 15:58:00,536 ERROR: ^
-2024-02-22 15:58:00,536 ERROR: ^
-2024-02-22 15:58:00,536 ERROR: ^
-2024-02-22 15:58:00,536 ERROR: ^
-2024-02-22 15:58:00,536 ERROR: ^
-2024-02-22 15:58:00,536 ERROR: ^
-2024-02-22 15:58:00,536 ERROR: ^
-2024-02-22 15:58:00,536 ERROR: ^
-2024-02-22 15:58:00,536 ERROR: ^
-2024-02-22 15:58:00,536 ERROR: ^
-2024-02-22 15:58:00,536 ERROR: ^
-2024-02-22 15:58:00,536 ERROR: ^
-2024-02-22 15:58:00,536 ERROR: ^
-2024-02-22 15:58:00,536 ERROR: ^
-2024-02-22 15:58:00,536 ERROR:   File "/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/utils.py", line 37, in clean_and_tokenize
-2024-02-22 15:58:00,536 ERROR: text = re.sub(r'\s+', ' ', text)
-2024-02-22 15:58:00,537 ERROR: ^
-2024-02-22 15:58:00,537 ERROR: ^
-2024-02-22 15:58:00,537 ERROR: NameError
-2024-02-22 15:58:00,537 ERROR: :
-2024-02-22 15:58:00,537 ERROR: name 're' is not defined
-2024-02-22 16:00:23,917 DEBUG: Starting new HTTPS connection (1): github.com:443
-2024-02-22 16:00:24,305 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
-2024-02-22 16:00:24,306 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
-2024-02-22 16:00:24,591 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
-2024-02-22 16:00:38,597 INFO: Reading document from string ...
-2024-02-22 16:00:38,597 INFO: Reading document ...
-2024-02-22 16:00:38,603 DEBUG: Skipping sentence because does not exceed 5 word tokens
-Crawlee
-2024-02-22 16:00:38,603 DEBUG: Skipping sentence because does not exceed 3 word tokens
-Web Crawler
-2024-02-22 16:00:38,603 DEBUG: Not narrative. Text exceeds cap ratio 0.5:
-
-Web Crawler
-2024-02-22 16:00:38,603 DEBUG: Skipping sentence because does not exceed 5 word tokens
-Web Crawler
-2024-02-22 16:00:38,609 DEBUG: Skipping sentence because does not exceed 3 word tokens
-consolelogHello World
-2024-02-22 16:00:38,609 DEBUG: Skipping sentence because does not exceed 3 word tokens
-
-2024-02-22 16:00:38,609 DEBUG: Skipping sentence because does not exceed 3 word tokens
-consolelogHello World
-2024-02-22 16:00:38,609 DEBUG: Skipping sentence because does not exceed 3 word tokens
-
-2024-02-22 16:00:38,699 DEBUG: Not narrative. Text does not contain a verb:
-
-console.log("Hello, World!");
-2024-02-22 16:00:38,699 DEBUG: Skipping sentence because does not exceed 5 word tokens
-consolelogHello World
-2024-02-22 16:00:38,699 DEBUG: Skipping sentence because does not exceed 5 word tokens
-
-2024-02-22 16:00:38,720 WARNING: WARNING! api_key is not default parameter.
+2024-02-22 16:29:40,398 WARNING: WARNING! api_key is not default parameter.
                     api_key was transfered to model_kwargs.
                     Please confirm that api_key is what you intended.
-2024-02-22 16:00:56,232 ERROR: /media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/venv/lib/python3.11/site-packages/sklearn/feature_extraction/text.py:528: UserWarning: The parameter 'token_pattern' will not be used since 'tokenizer' is not None'
+2024-02-22 16:30:54,980 ERROR: /media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/venv/lib/python3.11/site-packages/sklearn/feature_extraction/text.py:528: UserWarning: The parameter 'token_pattern' will not be used since 'tokenizer' is not None'
   warnings.warn(
-2024-02-22 16:00:56,343 DEBUG: message='Request to OpenAI API' method=post path=https://api.openai.com/v1/completions
-2024-02-22 16:00:56,343 DEBUG: api_version=None data='{"prompt": ["\\n            Repo: Crawlee (https://github.com/StuartJAtkinson/Crawlee) | Conv:  | Docs: 1. README.md: Crawlee\\n\\nWeb Crawler\\n2. main.js: console.log(\\"Hello, World!\\"); | Q: Summarise the purpose of this project | FileCount: {\'md\': 1, \'js\': 1} | FileNames: [\'README.md\', \'main.js\']\\n\\n            Instr:\\n            1. Answer based on context/docs.\\n            2. Focus on repo/code.\\n            3. Consider:\\n                a. Purpose/features - describe.\\n                b. Functions/code - provide details/samples.\\n                c. Setup/usage - give instructions.\\n            4. Unsure? Say \\"I am not sure\\".\\n\\n            Answer:\\n            "], "model": "text-davinci-003", "temperature": 0.2, "max_tokens": 256, "top_p": 1, "frequency_penalty": 0, "presence_penalty": 0, "n": 1, "best_of": 1, "logit_bias": {}}' message='Post details'
-2024-02-22 16:00:56,343 DEBUG: Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
-2024-02-22 16:00:56,346 DEBUG: Starting new HTTPS connection (1): api.openai.com:443
-2024-02-22 16:00:57,225 DEBUG: https://api.openai.com:443 "POST /v1/completions HTTP/1.1" 404 None
-2024-02-22 16:00:57,226 DEBUG: message='OpenAI API response' path=https://api.openai.com/v1/completions processing_ms=None request_id=req_48436773c3f7b7fbcd35a0a4b8831509 response_code=404
-2024-02-22 16:00:57,227 INFO: error_code=model_not_found error_message='The model `text-davinci-003` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-02-22 16:30:55,023 DEBUG: message='Request to OpenAI API' method=post path=https://api.openai.com/v1/completions
+2024-02-22 16:30:55,024 DEBUG: api_version=None data='{"prompt": ["\\n            Repo: Crawlee (https://github.com/StuartJAtkinson/Crawlee) | Conv:  | Docs: 1. README.md: Crawlee\\n\\nWeb Crawler\\n2. main.js: console.log(\\"Hello, World!\\"); | Q: Summarize this project | FileCount: {\'md\': 1, \'js\': 1} | FileNames: [\'README.md\', \'main.js\']\\n\\n            Instr:\\n            1. Answer based on context/docs.\\n            2. Focus on repo/code.\\n            3. Consider:\\n                a. Purpose/features - describe.\\n                b. Functions/code - provide details/samples.\\n                c. Setup/usage - give instructions.\\n            4. Unsure? Say \\"I am not sure\\".\\n\\n            Answer:\\n            "], "model": "text-davinci-003", "temperature": 0.2, "max_tokens": 256, "top_p": 1, "frequency_penalty": 0, "presence_penalty": 0, "n": 1, "best_of": 1, "logit_bias": {}}' message='Post details'
+2024-02-22 16:30:55,024 DEBUG: Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2024-02-22 16:30:55,026 DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2024-02-22 16:30:55,338 DEBUG: https://api.openai.com:443 "POST /v1/completions HTTP/1.1" 404 None
+2024-02-22 16:30:55,339 DEBUG: message='OpenAI API response' path=https://api.openai.com/v1/completions processing_ms=None request_id=req_7908f9cb8bd750ad546f0a51defc5e81 response_code=404
+2024-02-22 16:30:55,339 INFO: error_code=model_not_found error_message='The model `text-davinci-003` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-02-22 16:37:05,346 DEBUG: Starting new HTTPS connection (1): github.com:443
+2024-02-22 16:37:05,704 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
+2024-02-22 16:37:05,705 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2024-02-22 16:37:05,879 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
+2024-02-22 16:37:20,403 INFO: Reading document from string ...
+2024-02-22 16:37:20,403 INFO: Reading document ...
+2024-02-22 16:37:20,409 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Crawlee
+2024-02-22 16:37:20,410 DEBUG: Skipping sentence because does not exceed 3 word tokens
+Web Crawler
+2024-02-22 16:37:20,410 DEBUG: Not narrative. Text exceeds cap ratio 0.5:
+
+Web Crawler
+2024-02-22 16:37:20,410 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Web Crawler
+2024-02-22 16:37:20,416 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 16:37:20,416 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 16:37:20,416 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 16:37:20,416 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 16:37:20,508 DEBUG: Not narrative. Text does not contain a verb:
+
+console.log("Hello, World!");
+2024-02-22 16:37:20,509 DEBUG: Skipping sentence because does not exceed 5 word tokens
+consolelogHello World
+2024-02-22 16:37:20,509 DEBUG: Skipping sentence because does not exceed 5 word tokens
+
+2024-02-22 16:37:20,530 WARNING: WARNING! api_key is not default parameter.
+                    api_key was transfered to model_kwargs.
+                    Please confirm that api_key is what you intended.
+2024-02-22 16:37:31,074 ERROR: /media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/venv/lib/python3.11/site-packages/sklearn/feature_extraction/text.py:528: UserWarning: The parameter 'token_pattern' will not be used since 'tokenizer' is not None'
+  warnings.warn(
+2024-02-22 16:37:31,109 DEBUG: message='Request to OpenAI API' method=post path=https://api.openai.com/v1/completions
+2024-02-22 16:37:31,109 DEBUG: api_version=None data='{"prompt": ["\\n            Repo: Crawlee (https://github.com/StuartJAtkinson/Crawlee) | Conv:  | Docs: 1. README.md: Crawlee\\n\\nWeb Crawler\\n2. main.js: console.log(\\"Hello, World!\\"); | Q: Summarise this project\'s purpose | FileCount: {\'md\': 1, \'js\': 1} | FileNames: [\'README.md\', \'main.js\']\\n\\n            Instr:\\n            1. Answer based on context/docs.\\n            2. Focus on repo/code.\\n            3. Consider:\\n                a. Purpose/features - describe.\\n                b. Functions/code - provide details/samples.\\n                c. Setup/usage - give instructions.\\n            4. Unsure? Say \\"I am not sure\\".\\n\\n            Answer:\\n            "], "model": "text-davinci-003", "temperature": 0.2, "max_tokens": 256, "top_p": 1, "frequency_penalty": 0, "presence_penalty": 0, "n": 1, "best_of": 1, "logit_bias": {}}' message='Post details'
+2024-02-22 16:37:31,109 DEBUG: Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2024-02-22 16:37:31,112 DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2024-02-22 16:37:31,564 DEBUG: https://api.openai.com:443 "POST /v1/completions HTTP/1.1" 404 None
+2024-02-22 16:37:31,565 DEBUG: message='OpenAI API response' path=https://api.openai.com/v1/completions processing_ms=None request_id=req_7df131edec452534324b40697e7cd831 response_code=404
+2024-02-22 16:37:31,565 INFO: error_code=model_not_found error_message='The model `text-davinci-003` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-02-22 16:40:02,390 DEBUG: Starting new HTTPS connection (1): github.com:443
+2024-02-22 16:40:02,828 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
+2024-02-22 16:40:02,829 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2024-02-22 16:40:03,114 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
+2024-02-22 16:40:23,747 DEBUG: Starting new HTTPS connection (1): github.com:443
+2024-02-22 16:40:23,960 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
+2024-02-22 16:40:23,962 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2024-02-22 16:40:24,096 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
+2024-02-22 16:40:32,758 INFO: Reading document from string ...
+2024-02-22 16:40:32,758 INFO: Reading document ...
+2024-02-22 16:40:32,763 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Crawlee
+2024-02-22 16:40:32,763 DEBUG: Skipping sentence because does not exceed 3 word tokens
+Web Crawler
+2024-02-22 16:40:32,763 DEBUG: Not narrative. Text exceeds cap ratio 0.5:
+
+Web Crawler
+2024-02-22 16:40:32,763 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Web Crawler
+2024-02-22 16:40:32,769 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 16:40:32,769 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 16:40:32,769 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 16:40:32,769 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 16:40:32,857 DEBUG: Not narrative. Text does not contain a verb:
+
+console.log("Hello, World!");
+2024-02-22 16:40:32,857 DEBUG: Skipping sentence because does not exceed 5 word tokens
+consolelogHello World
+2024-02-22 16:40:32,857 DEBUG: Skipping sentence because does not exceed 5 word tokens
+
+2024-02-22 16:40:32,878 WARNING: WARNING! api_key is not default parameter.
+                    api_key was transfered to model_kwargs.
+                    Please confirm that api_key is what you intended.
+2024-02-22 16:40:32,894 ERROR: Traceback (most recent call last):
+2024-02-22 16:40:32,894 ERROR:   File "/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/app.py", line 5, in <module>
+2024-02-22 16:40:32,894 ERROR: main()
+2024-02-22 16:40:32,894 ERROR:   File "/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/main.py", line 80, in main
+2024-02-22 16:40:32,894 ERROR: question_context = QuestionContext(index, documents, llm_chain, model_name, repo_name, github_url, conversation_history, file_type_counts, filenames)
+2024-02-22 16:40:32,894 ERROR: ^
+2024-02-22 16:40:32,894 ERROR: ^
+2024-02-22 16:40:32,894 ERROR: ^
+2024-02-22 16:40:32,894 ERROR: ^
+2024-02-22 16:40:32,894 ERROR: ^
+2024-02-22 16:40:32,894 ERROR: ^
+2024-02-22 16:40:32,894 ERROR: ^
+2024-02-22 16:40:32,894 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,895 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,896 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,897 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,898 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,899 ERROR: ^
+2024-02-22 16:40:32,900 ERROR: ^
+2024-02-22 16:40:32,900 ERROR: ^
+2024-02-22 16:40:32,900 ERROR: ^
+2024-02-22 16:40:32,900 ERROR: ^
+2024-02-22 16:40:32,900 ERROR: ^
+2024-02-22 16:40:32,900 ERROR: ^
+2024-02-22 16:40:32,900 ERROR: ^
+2024-02-22 16:40:32,900 ERROR: ^
+2024-02-22 16:40:32,900 ERROR: ^
+2024-02-22 16:40:32,900 ERROR: ^
+2024-02-22 16:40:32,900 ERROR: ^
+2024-02-22 16:40:32,900 ERROR: ^
+2024-02-22 16:40:32,900 ERROR: ^
+2024-02-22 16:40:32,900 ERROR: TypeError
+2024-02-22 16:40:32,900 ERROR: :
+2024-02-22 16:40:32,900 ERROR: QuestionContext.__init__() takes 9 positional arguments but 10 were given
+2024-02-22 16:40:49,694 DEBUG: Starting new HTTPS connection (1): github.com:443
+2024-02-22 16:40:49,884 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
+2024-02-22 16:40:49,887 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2024-02-22 16:40:50,031 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
+2024-02-22 16:40:56,937 INFO: Reading document from string ...
+2024-02-22 16:40:56,937 INFO: Reading document ...
+2024-02-22 16:40:56,943 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Crawlee
+2024-02-22 16:40:56,943 DEBUG: Skipping sentence because does not exceed 3 word tokens
+Web Crawler
+2024-02-22 16:40:56,943 DEBUG: Not narrative. Text exceeds cap ratio 0.5:
+
+Web Crawler
+2024-02-22 16:40:56,943 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Web Crawler
+2024-02-22 16:40:56,950 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 16:40:56,950 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 16:40:56,950 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 16:40:56,950 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 16:40:57,037 DEBUG: Not narrative. Text does not contain a verb:
+
+console.log("Hello, World!");
+2024-02-22 16:40:57,038 DEBUG: Skipping sentence because does not exceed 5 word tokens
+consolelogHello World
+2024-02-22 16:40:57,038 DEBUG: Skipping sentence because does not exceed 5 word tokens
+
+2024-02-22 16:40:57,058 WARNING: WARNING! api_key is not default parameter.
+                    api_key was transfered to model_kwargs.
+                    Please confirm that api_key is what you intended.
+2024-02-22 16:40:57,073 ERROR: Traceback (most recent call last):
+2024-02-22 16:40:57,073 ERROR:   File "/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/app.py", line 5, in <module>
+2024-02-22 16:40:57,074 ERROR: main()
+2024-02-22 16:40:57,074 ERROR:   File "/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/main.py", line 80, in main
+2024-02-22 16:40:57,074 ERROR: question_context = QuestionContext(index, documents, llm_chain, model_name, repo_name, github_url, conversation_history, file_type_counts, filenames)
+2024-02-22 16:40:57,074 ERROR: ^
+2024-02-22 16:40:57,074 ERROR: ^
+2024-02-22 16:40:57,074 ERROR: ^
+2024-02-22 16:40:57,074 ERROR: ^
+2024-02-22 16:40:57,074 ERROR: ^
+2024-02-22 16:40:57,074 ERROR: ^
+2024-02-22 16:40:57,074 ERROR: ^
+2024-02-22 16:40:57,074 ERROR: ^
+2024-02-22 16:40:57,075 ERROR: ^
+2024-02-22 16:40:57,075 ERROR: ^
+2024-02-22 16:40:57,075 ERROR: ^
+2024-02-22 16:40:57,075 ERROR: ^
+2024-02-22 16:40:57,075 ERROR: ^
+2024-02-22 16:40:57,075 ERROR: ^
+2024-02-22 16:40:57,075 ERROR: ^
+2024-02-22 16:40:57,075 ERROR: ^
+2024-02-22 16:40:57,075 ERROR: ^
+2024-02-22 16:40:57,075 ERROR: ^
+2024-02-22 16:40:57,075 ERROR: ^
+2024-02-22 16:40:57,075 ERROR: ^
+2024-02-22 16:40:57,075 ERROR: ^
+2024-02-22 16:40:57,075 ERROR: ^
+2024-02-22 16:40:57,075 ERROR: ^
+2024-02-22 16:40:57,075 ERROR: ^
+2024-02-22 16:40:57,075 ERROR: ^
+2024-02-22 16:40:57,076 ERROR: ^
+2024-02-22 16:40:57,076 ERROR: ^
+2024-02-22 16:40:57,076 ERROR: ^
+2024-02-22 16:40:57,076 ERROR: ^
+2024-02-22 16:40:57,076 ERROR: ^
+2024-02-22 16:40:57,076 ERROR: ^
+2024-02-22 16:40:57,076 ERROR: ^
+2024-02-22 16:40:57,076 ERROR: ^
+2024-02-22 16:40:57,076 ERROR: ^
+2024-02-22 16:40:57,076 ERROR: ^
+2024-02-22 16:40:57,076 ERROR: ^
+2024-02-22 16:40:57,076 ERROR: ^
+2024-02-22 16:40:57,076 ERROR: ^
+2024-02-22 16:40:57,076 ERROR: ^
+2024-02-22 16:40:57,076 ERROR: ^
+2024-02-22 16:40:57,077 ERROR: ^
+2024-02-22 16:40:57,077 ERROR: ^
+2024-02-22 16:40:57,077 ERROR: ^
+2024-02-22 16:40:57,077 ERROR: ^
+2024-02-22 16:40:57,077 ERROR: ^
+2024-02-22 16:40:57,077 ERROR: ^
+2024-02-22 16:40:57,077 ERROR: ^
+2024-02-22 16:40:57,077 ERROR: ^
+2024-02-22 16:40:57,077 ERROR: ^
+2024-02-22 16:40:57,077 ERROR: ^
+2024-02-22 16:40:57,077 ERROR: ^
+2024-02-22 16:40:57,077 ERROR: ^
+2024-02-22 16:40:57,077 ERROR: ^
+2024-02-22 16:40:57,078 ERROR: ^
+2024-02-22 16:40:57,078 ERROR: ^
+2024-02-22 16:40:57,078 ERROR: ^
+2024-02-22 16:40:57,078 ERROR: ^
+2024-02-22 16:40:57,078 ERROR: ^
+2024-02-22 16:40:57,078 ERROR: ^
+2024-02-22 16:40:57,078 ERROR: ^
+2024-02-22 16:40:57,078 ERROR: ^
+2024-02-22 16:40:57,078 ERROR: ^
+2024-02-22 16:40:57,078 ERROR: ^
+2024-02-22 16:40:57,078 ERROR: ^
+2024-02-22 16:40:57,078 ERROR: ^
+2024-02-22 16:40:57,078 ERROR: ^
+2024-02-22 16:40:57,078 ERROR: ^
+2024-02-22 16:40:57,078 ERROR: ^
+2024-02-22 16:40:57,078 ERROR: ^
+2024-02-22 16:40:57,078 ERROR: ^
+2024-02-22 16:40:57,078 ERROR: ^
+2024-02-22 16:40:57,079 ERROR: ^
+2024-02-22 16:40:57,079 ERROR: ^
+2024-02-22 16:40:57,079 ERROR: ^
+2024-02-22 16:40:57,079 ERROR: ^
+2024-02-22 16:40:57,079 ERROR: ^
+2024-02-22 16:40:57,079 ERROR: ^
+2024-02-22 16:40:57,079 ERROR: ^
+2024-02-22 16:40:57,079 ERROR: ^
+2024-02-22 16:40:57,079 ERROR: ^
+2024-02-22 16:40:57,079 ERROR: ^
+2024-02-22 16:40:57,079 ERROR: ^
+2024-02-22 16:40:57,079 ERROR: ^
+2024-02-22 16:40:57,080 ERROR: ^
+2024-02-22 16:40:57,080 ERROR: ^
+2024-02-22 16:40:57,080 ERROR: ^
+2024-02-22 16:40:57,080 ERROR: ^
+2024-02-22 16:40:57,080 ERROR: ^
+2024-02-22 16:40:57,080 ERROR: ^
+2024-02-22 16:40:57,080 ERROR: ^
+2024-02-22 16:40:57,080 ERROR: ^
+2024-02-22 16:40:57,080 ERROR: ^
+2024-02-22 16:40:57,080 ERROR: ^
+2024-02-22 16:40:57,080 ERROR: ^
+2024-02-22 16:40:57,080 ERROR: ^
+2024-02-22 16:40:57,080 ERROR: ^
+2024-02-22 16:40:57,080 ERROR: ^
+2024-02-22 16:40:57,080 ERROR: ^
+2024-02-22 16:40:57,080 ERROR: ^
+2024-02-22 16:40:57,081 ERROR: ^
+2024-02-22 16:40:57,081 ERROR: ^
+2024-02-22 16:40:57,081 ERROR: ^
+2024-02-22 16:40:57,081 ERROR: ^
+2024-02-22 16:40:57,081 ERROR: ^
+2024-02-22 16:40:57,081 ERROR: ^
+2024-02-22 16:40:57,081 ERROR: ^
+2024-02-22 16:40:57,081 ERROR: ^
+2024-02-22 16:40:57,081 ERROR: ^
+2024-02-22 16:40:57,082 ERROR: ^
+2024-02-22 16:40:57,082 ERROR: ^
+2024-02-22 16:40:57,082 ERROR: ^
+2024-02-22 16:40:57,082 ERROR: ^
+2024-02-22 16:40:57,082 ERROR: ^
+2024-02-22 16:40:57,082 ERROR: ^
+2024-02-22 16:40:57,082 ERROR: ^
+2024-02-22 16:40:57,082 ERROR: ^
+2024-02-22 16:40:57,082 ERROR: ^
+2024-02-22 16:40:57,082 ERROR: ^
+2024-02-22 16:40:57,082 ERROR: ^
+2024-02-22 16:40:57,082 ERROR: ^
+2024-02-22 16:40:57,082 ERROR: ^
+2024-02-22 16:40:57,082 ERROR: ^
+2024-02-22 16:40:57,082 ERROR: ^
+2024-02-22 16:40:57,082 ERROR: ^
+2024-02-22 16:40:57,083 ERROR: ^
+2024-02-22 16:40:57,083 ERROR: ^
+2024-02-22 16:40:57,083 ERROR: ^
+2024-02-22 16:40:57,083 ERROR: ^
+2024-02-22 16:40:57,083 ERROR: ^
+2024-02-22 16:40:57,083 ERROR: ^
+2024-02-22 16:40:57,083 ERROR: TypeError
+2024-02-22 16:40:57,083 ERROR: :
+2024-02-22 16:40:57,083 ERROR: QuestionContext.__init__() takes 9 positional arguments but 10 were given
+2024-02-22 16:42:38,156 DEBUG: Starting new HTTPS connection (1): github.com:443
+2024-02-22 16:42:38,583 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
+2024-02-22 16:42:38,585 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2024-02-22 16:42:38,887 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
+2024-02-22 16:42:47,938 INFO: Reading document from string ...
+2024-02-22 16:42:47,938 INFO: Reading document ...
+2024-02-22 16:42:47,943 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Crawlee
+2024-02-22 16:42:47,944 DEBUG: Skipping sentence because does not exceed 3 word tokens
+Web Crawler
+2024-02-22 16:42:47,944 DEBUG: Not narrative. Text exceeds cap ratio 0.5:
+
+Web Crawler
+2024-02-22 16:42:47,944 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Web Crawler
+2024-02-22 16:42:47,949 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 16:42:47,949 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 16:42:47,950 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 16:42:47,950 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 16:42:48,043 DEBUG: Not narrative. Text does not contain a verb:
+
+console.log("Hello, World!");
+2024-02-22 16:42:48,043 DEBUG: Skipping sentence because does not exceed 5 word tokens
+consolelogHello World
+2024-02-22 16:42:48,043 DEBUG: Skipping sentence because does not exceed 5 word tokens
+
+2024-02-22 16:42:48,064 WARNING: WARNING! api_key is not default parameter.
+                    api_key was transfered to model_kwargs.
+                    Please confirm that api_key is what you intended.
+2024-02-22 16:42:48,080 ERROR: Traceback (most recent call last):
+2024-02-22 16:42:48,080 ERROR:   File "/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/app.py", line 5, in <module>
+2024-02-22 16:42:48,080 ERROR: main()
+2024-02-22 16:42:48,080 ERROR:   File "/media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/main.py", line 81, in main
+2024-02-22 16:42:48,080 ERROR: question_context = QuestionContext(index, documents, llm_chain, model_name, repo_name, github_url, conversation_history, file_type_counts, filenames)
+2024-02-22 16:42:48,080 ERROR: ^
+2024-02-22 16:42:48,080 ERROR: ^
+2024-02-22 16:42:48,080 ERROR: ^
+2024-02-22 16:42:48,080 ERROR: ^
+2024-02-22 16:42:48,080 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,081 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,082 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,083 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,084 ERROR: ^
+2024-02-22 16:42:48,085 ERROR: ^
+2024-02-22 16:42:48,085 ERROR: ^
+2024-02-22 16:42:48,085 ERROR: ^
+2024-02-22 16:42:48,085 ERROR: ^
+2024-02-22 16:42:48,085 ERROR: ^
+2024-02-22 16:42:48,085 ERROR: ^
+2024-02-22 16:42:48,085 ERROR: ^
+2024-02-22 16:42:48,085 ERROR: ^
+2024-02-22 16:42:48,085 ERROR: ^
+2024-02-22 16:42:48,085 ERROR: ^
+2024-02-22 16:42:48,085 ERROR: ^
+2024-02-22 16:42:48,085 ERROR: ^
+2024-02-22 16:42:48,085 ERROR: ^
+2024-02-22 16:42:48,085 ERROR: ^
+2024-02-22 16:42:48,085 ERROR: ^
+2024-02-22 16:42:48,085 ERROR: ^
+2024-02-22 16:42:48,085 ERROR: ^
+2024-02-22 16:42:48,086 ERROR: ^
+2024-02-22 16:42:48,086 ERROR: ^
+2024-02-22 16:42:48,086 ERROR: ^
+2024-02-22 16:42:48,086 ERROR: ^
+2024-02-22 16:42:48,086 ERROR: ^
+2024-02-22 16:42:48,086 ERROR: ^
+2024-02-22 16:42:48,086 ERROR: ^
+2024-02-22 16:42:48,086 ERROR: ^
+2024-02-22 16:42:48,086 ERROR: ^
+2024-02-22 16:42:48,086 ERROR: ^
+2024-02-22 16:42:48,086 ERROR: ^
+2024-02-22 16:42:48,086 ERROR: ^
+2024-02-22 16:42:48,087 ERROR: ^
+2024-02-22 16:42:48,087 ERROR: ^
+2024-02-22 16:42:48,087 ERROR: ^
+2024-02-22 16:42:48,087 ERROR: ^
+2024-02-22 16:42:48,087 ERROR: ^
+2024-02-22 16:42:48,087 ERROR: ^
+2024-02-22 16:42:48,087 ERROR: ^
+2024-02-22 16:42:48,087 ERROR: ^
+2024-02-22 16:42:48,087 ERROR: ^
+2024-02-22 16:42:48,087 ERROR: ^
+2024-02-22 16:42:48,087 ERROR: ^
+2024-02-22 16:42:48,087 ERROR: ^
+2024-02-22 16:42:48,088 ERROR: TypeError
+2024-02-22 16:42:48,088 ERROR: :
+2024-02-22 16:42:48,088 ERROR: QuestionContext.__init__() takes 9 positional arguments but 10 were given
+2024-02-22 16:45:08,006 DEBUG: Starting new HTTPS connection (1): github.com:443
+2024-02-22 16:45:08,497 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
+2024-02-22 16:45:08,498 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2024-02-22 16:45:08,735 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
+2024-02-22 16:45:16,817 INFO: Reading document from string ...
+2024-02-22 16:45:16,818 INFO: Reading document ...
+2024-02-22 16:45:16,824 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Crawlee
+2024-02-22 16:45:16,825 DEBUG: Skipping sentence because does not exceed 3 word tokens
+Web Crawler
+2024-02-22 16:45:16,825 DEBUG: Not narrative. Text exceeds cap ratio 0.5:
+
+Web Crawler
+2024-02-22 16:45:16,825 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Web Crawler
+2024-02-22 16:45:16,830 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 16:45:16,831 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 16:45:16,831 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 16:45:16,831 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 16:45:16,938 DEBUG: Not narrative. Text does not contain a verb:
+
+console.log("Hello, World!");
+2024-02-22 16:45:16,938 DEBUG: Skipping sentence because does not exceed 5 word tokens
+consolelogHello World
+2024-02-22 16:45:16,938 DEBUG: Skipping sentence because does not exceed 5 word tokens
+
+2024-02-22 16:45:16,960 WARNING: WARNING! api_key is not default parameter.
+                    api_key was transfered to model_kwargs.
+                    Please confirm that api_key is what you intended.
+2024-02-22 16:45:23,052 ERROR: /media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/venv/lib/python3.11/site-packages/sklearn/feature_extraction/text.py:528: UserWarning: The parameter 'token_pattern' will not be used since 'tokenizer' is not None'
+  warnings.warn(
+2024-02-22 16:45:23,085 DEBUG: message='Request to OpenAI API' method=post path=https://api.openai.com/v1/completions
+2024-02-22 16:45:23,085 DEBUG: api_version=None data='{"prompt": ["\\n            Repo: Crawlee (https://github.com/StuartJAtkinson/Crawlee) | Conv:  | Docs: 1. README.md: Crawlee\\n\\nWeb Crawler\\n2. main.js: console.log(\\"Hello, World!\\"); | Q: Summarise this project | FileCount: {\'md\': 1, \'js\': 1} | FileNames: [\'README.md\', \'main.js\']\\n\\n            Instr:\\n            1. Answer based on context/docs.\\n            2. Focus on repo/code.\\n            3. Consider:\\n                a. Purpose/features - describe.\\n                b. Functions/code - provide details/samples.\\n                c. Setup/usage - give instructions.\\n            4. Unsure? Say \\"I am not sure\\".\\n\\n            Answer:\\n            "], "model": "text-davinci-003", "temperature": 0.2, "max_tokens": 256, "top_p": 1, "frequency_penalty": 0, "presence_penalty": 0, "n": 1, "best_of": 1, "logit_bias": {}}' message='Post details'
+2024-02-22 16:45:23,085 DEBUG: Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2024-02-22 16:45:23,087 DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2024-02-22 16:45:23,549 DEBUG: https://api.openai.com:443 "POST /v1/completions HTTP/1.1" 404 None
+2024-02-22 16:45:23,550 DEBUG: message='OpenAI API response' path=https://api.openai.com/v1/completions processing_ms=None request_id=req_d24dbfcb5ba6cce71a8ddac64e650a5e response_code=404
+2024-02-22 16:45:23,550 INFO: error_code=model_not_found error_message='The model `text-davinci-003` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-02-22 17:03:06,442 DEBUG: Starting new HTTPS connection (1): github.com:443
+2024-02-22 17:03:06,784 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
+2024-02-22 17:03:06,787 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2024-02-22 17:03:07,163 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
+2024-02-22 17:03:27,447 INFO: Reading document from string ...
+2024-02-22 17:03:27,448 INFO: Reading document ...
+2024-02-22 17:03:27,453 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Crawlee
+2024-02-22 17:03:27,453 DEBUG: Skipping sentence because does not exceed 3 word tokens
+Web Crawler
+2024-02-22 17:03:27,453 DEBUG: Not narrative. Text exceeds cap ratio 0.5:
+
+Web Crawler
+2024-02-22 17:03:27,454 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Web Crawler
+2024-02-22 17:03:27,459 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 17:03:27,459 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 17:03:27,459 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 17:03:27,459 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 17:03:27,561 DEBUG: Not narrative. Text does not contain a verb:
+
+console.log("Hello, World!");
+2024-02-22 17:03:27,562 DEBUG: Skipping sentence because does not exceed 5 word tokens
+consolelogHello World
+2024-02-22 17:03:27,562 DEBUG: Skipping sentence because does not exceed 5 word tokens
+
+2024-02-22 17:03:27,596 WARNING: WARNING! api_key is not default parameter.
+                    api_key was transfered to model_kwargs.
+                    Please confirm that api_key is what you intended.
+2024-02-22 17:09:07,142 DEBUG: Starting new HTTPS connection (1): github.com:443
+2024-02-22 17:09:07,476 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
+2024-02-22 17:09:07,478 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2024-02-22 17:09:09,392 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
+2024-02-22 17:37:46,761 DEBUG: Starting new HTTPS connection (1): github.com:443
+2024-02-22 17:37:47,096 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
+2024-02-22 17:37:47,098 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2024-02-22 17:37:48,518 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
+2024-02-22 17:38:18,685 INFO: Reading document from string ...
+2024-02-22 17:38:18,697 INFO: Reading document ...
+2024-02-22 17:38:18,709 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Crawlee
+2024-02-22 17:38:18,710 DEBUG: Skipping sentence because does not exceed 3 word tokens
+Web Crawler
+2024-02-22 17:38:18,710 DEBUG: Not narrative. Text exceeds cap ratio 0.5:
+
+Web Crawler
+2024-02-22 17:38:18,710 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Web Crawler
+2024-02-22 17:38:18,718 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 17:38:18,718 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 17:38:18,719 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 17:38:18,719 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 17:38:18,838 DEBUG: Not narrative. Text does not contain a verb:
+
+console.log("Hello, World!");
+2024-02-22 17:38:18,838 DEBUG: Skipping sentence because does not exceed 5 word tokens
+consolelogHello World
+2024-02-22 17:38:18,838 DEBUG: Skipping sentence because does not exceed 5 word tokens
+
+2024-02-22 17:38:18,873 ERROR: /media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/venv/lib/python3.11/site-packages/langchain/llms/openai.py:170: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+2024-02-22 17:38:18,903 ERROR: /media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/venv/lib/python3.11/site-packages/langchain/llms/openai.py:624: UserWarning: You are trying to use a chat model. This way of initializing it is no longer supported. Instead, please use: `from langchain.chat_models import ChatOpenAI`
+  warnings.warn(
+2024-02-22 17:40:41,201 DEBUG: Starting new HTTPS connection (1): github.com:443
+2024-02-22 17:40:41,499 DEBUG: https://github.com:443 "GET /nltk/nltk_data/raw/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 302 0
+2024-02-22 17:40:41,502 DEBUG: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2024-02-22 17:40:41,652 DEBUG: https://raw.githubusercontent.com:443 "GET /nltk/nltk_data/gh-pages/packages/tokenizers/punkt.zip HTTP/1.1" 200 13905355
+2024-02-22 17:40:57,339 INFO: Reading document from string ...
+2024-02-22 17:40:57,340 INFO: Reading document ...
+2024-02-22 17:40:57,345 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Crawlee
+2024-02-22 17:40:57,346 DEBUG: Skipping sentence because does not exceed 3 word tokens
+Web Crawler
+2024-02-22 17:40:57,346 DEBUG: Not narrative. Text exceeds cap ratio 0.5:
+
+Web Crawler
+2024-02-22 17:40:57,346 DEBUG: Skipping sentence because does not exceed 5 word tokens
+Web Crawler
+2024-02-22 17:40:57,353 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 17:40:57,353 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 17:40:57,353 DEBUG: Skipping sentence because does not exceed 3 word tokens
+consolelogHello World
+2024-02-22 17:40:57,353 DEBUG: Skipping sentence because does not exceed 3 word tokens
+
+2024-02-22 17:40:57,448 DEBUG: Not narrative. Text does not contain a verb:
+
+console.log("Hello, World!");
+2024-02-22 17:40:57,448 DEBUG: Skipping sentence because does not exceed 5 word tokens
+consolelogHello World
+2024-02-22 17:40:57,448 DEBUG: Skipping sentence because does not exceed 5 word tokens
+
+2024-02-22 17:41:21,425 ERROR: /media/stuart/a874b769-6b78-4d91-9f1f-c08ec45ab566/Github/RepoReader/venv/lib/python3.11/site-packages/sklearn/feature_extraction/text.py:528: UserWarning: The parameter 'token_pattern' will not be used since 'tokenizer' is not None'
+  warnings.warn(
+2024-02-22 17:41:21,504 DEBUG: message='Request to OpenAI API' method=post path=https://api.openai.com/v1/chat/completions
+2024-02-22 17:41:21,504 DEBUG: api_version=None data='{"messages": [{"role": "user", "content": "\\n            Repo: Crawlee (https://github.com/StuartJAtkinson/Crawlee) | Conv:  | Docs: 1. README.md: Crawlee\\n\\nWeb Crawler\\n2. main.js: console.log(\\"Hello, World!\\"); | Q: Summarize the purpose of this project | FileCount: {\'md\': 1, \'js\': 1} | FileNames: [\'README.md\', \'main.js\']\\n\\n            Instr:\\n            1. Answer based on context/docs.\\n            2. Focus on repo/code.\\n            3. Consider:\\n                a. Purpose/features - describe.\\n                b. Functions/code - provide details/samples.\\n                c. Setup/usage - give instructions.\\n            4. Unsure? Say \\"I am not sure\\".\\n\\n            Answer:\\n            "}], "model": "gpt-3.5-turbo-1106", "max_tokens": null, "stream": false, "n": 1, "temperature": 0.2}' message='Post details'
+2024-02-22 17:41:21,504 DEBUG: Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+2024-02-22 17:41:21,507 DEBUG: Starting new HTTPS connection (1): api.openai.com:443
+2024-02-22 17:41:24,143 DEBUG: https://api.openai.com:443 "POST /v1/chat/completions HTTP/1.1" 200 None
+2024-02-22 17:41:24,144 DEBUG: message='OpenAI API response' path=https://api.openai.com/v1/chat/completions processing_ms=2100 request_id=req_918b3be386793cce55f9e4d020183635 response_code=200
