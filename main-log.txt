@@ -1,0 +1,16 @@
+2024-02-22 14:48:34,883 WARNING: Python-dotenv could not parse statement starting at line 19
+2024-02-22 14:48:34,883 WARNING: Python-dotenv could not parse statement starting at line 20
+2024-02-22 14:48:34,883 WARNING: Python-dotenv could not parse statement starting at line 21
+2024-02-22 14:48:34,883 WARNING: Python-dotenv could not parse statement starting at line 22
+2024-02-22 14:48:34,884 WARNING: Python-dotenv could not parse statement starting at line 23
+2024-02-22 14:48:34,884 WARNING: Python-dotenv could not parse statement starting at line 24
+2024-02-22 14:48:34,884 WARNING: Python-dotenv could not parse statement starting at line 25
+2024-02-22 14:48:34,884 WARNING: Python-dotenv could not parse statement starting at line 26
+2024-02-22 14:50:08,922 WARNING: Python-dotenv could not parse statement starting at line 19
+2024-02-22 14:50:08,922 WARNING: Python-dotenv could not parse statement starting at line 20
+2024-02-22 14:50:08,922 WARNING: Python-dotenv could not parse statement starting at line 21
+2024-02-22 14:50:08,922 WARNING: Python-dotenv could not parse statement starting at line 22
+2024-02-22 14:50:08,923 WARNING: Python-dotenv could not parse statement starting at line 23
+2024-02-22 14:50:08,923 WARNING: Python-dotenv could not parse statement starting at line 24
+2024-02-22 14:50:08,923 WARNING: Python-dotenv could not parse statement starting at line 25
+2024-02-22 14:50:08,923 WARNING: Python-dotenv could not parse statement starting at line 26

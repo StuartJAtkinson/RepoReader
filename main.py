@@ -1,5 +1,27 @@
-#main.py
+import logging
 import os
+import sys
+
+# Get the script's filename without extension and create a log filename
+script_name = os.path.basename(__file__).replace('.py', '')
+log_filename = f"{script_name}-log.txt"
+
+# Configure logging
+logging.basicConfig(filename=log_filename, level=logging.DEBUG,
+                    format='%(asctime)s %(levelname)s: %(message)s')
+logger = logging.getLogger(__name__)
+
+# Custom exception hook handler
+def log_uncaught_exceptions(exctype, value, tb):
+    logger.critical('Uncaught exception', exc_info=(exctype, value, tb))
+
+# Set Python to use your custom exception handler
+sys.excepthook = log_uncaught_exceptions
+
+
+
+#main.py
+import nltk
 import tempfile
 from dotenv import load_dotenv
 from langchain import PromptTemplate, LLMChain
